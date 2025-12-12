@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Komm, süsser Tod／甘き死よ、来たれ(M-10 Director's Edit. Version)",
+  "base_artist": "ARIANNE",
+  "createdAt": "2025-12-12T00:22:39.292417Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Komm, süsser Tod (M-10 Director's Edit. Version)",
+      "artist": "ARIANNE",
+      "has_synced": false,
+      "path": "select/01_Komm,_süsser_Tod_(M-10_Director's_Edit._Version)_ARIANNE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Komm Süsser Tod",
+      "artist": "Eisbrecher",
+      "has_synced": false,
+      "path": "select/02_Komm_Süsser_Tod_Eisbrecher.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Komm Susser Tod",
+      "artist": "Eisbrecher",
+      "has_synced": true,
+      "path": "select/03_Komm_Susser_Tod_Eisbrecher.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Komm,susser Tod",
+      "artist": "Arianne",
+      "has_synced": false,
+      "path": "select/04_Komm,susser_Tod_Arianne.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Komm, süsser Tod",
+      "artist": "Astrophysics",
+      "has_synced": true,
+      "path": "select/05_Komm,_süsser_Tod_Astrophysics.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Komm, süsser Tod",
+      "artist": "Astrophysics",
+      "has_synced": true,
+      "path": "select/06_Komm,_süsser_Tod_Astrophysics.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "KOMM, SUSSER TOD - M-10 Director's Edit Version",
+      "artist": "Arianne",
+      "has_synced": true,
+      "path": "select/07_KOMM,_SUSSER_TOD_-_M-10_Director's_Edit_Version_Arianne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Komm, süsser Tod (Director's Edit Version)",
+      "artist": "Arianne",
+      "has_synced": false,
+      "path": "select/08_Komm,_süsser_Tod_(Director's_Edit_Version)_Arianne.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Komm, süsser Tod",
+      "artist": "Astrophysics/Marina Rios",
+      "has_synced": true,
+      "path": "select/09_Komm,_süsser_Tod_Astrophysics_Marina_Rios.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Komm,susser Tod / 甘き死よ、来たれ (M-10 Director's Edit. Version)",
+      "artist": "Arianne",
+      "has_synced": true,
+      "path": "select/10_Komm,susser_Tod___甘き死よ、来たれ_(M-10_Director's_Edit._Version)_Arianne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Komm, susser Tod/甘き死よ、来たれ (M-10 Director’s Edit. Version)",
+      "artist": "ARIANNE",
+      "has_synced": true,
+      "path": "select/11_Komm,_susser_Tod_甘き死よ、来たれ_(M-10_Director’s_Edit._Version)_ARIANNE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Komm, Susser Tod",
+      "artist": "Division One",
+      "has_synced": false,
+      "path": "select/12_Komm,_Susser_Tod_Division_One.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Komm,susser Tod/甘き死よ、来たれ",
+      "artist": "Arianne",
+      "has_synced": false,
+      "path": "select/13_Komm,susser_Tod_甘き死よ、来たれ_Arianne.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Komm,susser Tod /甘き死よ、来たれ",
+      "artist": "All That Jazz",
+      "has_synced": true,
+      "path": "select/14_Komm,susser_Tod__甘き死よ、来たれ_All_That_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Komm，susser Tod (Mー10 Director＇s Edit．Version)",
+      "artist": "ARIANNE",
+      "has_synced": true,
+      "path": "select/15_Komm,susser_Tod_(Mー10_Director's_Edit.Version)_ARIANNE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Komm, Süsser Tod (feat. Marina Rios)",
+      "artist": "Astrophysics",
+      "has_synced": true,
+      "path": "select/16_Komm,_Süsser_Tod_(feat._Marina_Rios)_Astrophysics.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Komm, Süsser Tod (instrumental)",
+      "artist": "Astrophysics",
+      "has_synced": true,
+      "path": "select/17_Komm,_Süsser_Tod_(instrumental)_Astrophysics.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Komm, Süsser Tod (cyberpunk/synthwave 80s) feat. Marina Rios",
+      "artist": "Astrophysics",
+      "has_synced": true,
+      "path": "select/18_Komm,_Süsser_Tod_(cyberpunk_synthwave_80s)_feat._Marina_Rios_Astrophysics.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Komm, susser Tod ～甘き死よ、来たれ～",
+      "artist": "ARIANNE",
+      "has_synced": false,
+      "path": "select/pl_01_Komm,_susser_Tod_~甘き死よ、来たれ~_ARIANNE.txt"
+    }
+  ]
+}
